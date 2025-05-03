@@ -16,7 +16,7 @@ st.caption("Built using multiple linear regression trained on over 100 StarCraft
 st.markdown("---")
 
 # Sidebar links
-st.sidebar.markdown("📂 [View Project on GitHub](https://github.com/mikeybrotha1/Starcraft-II-Game-Time-Predictor-Repository")
+st.sidebar.markdown("📂 [View Project on GitHub](https://github.com/mikeybrotha1/starcraft2-mlr-app")
 st.sidebar.markdown("👾 [Chat on Reddit](https://www.reddit.com/user/Glad-Ad-7611)")
 st.markdown("🚀 Powered by Python, Streamlit, and Scikit-learn. Not affiliated with Blizzard Entertainment.")
 
